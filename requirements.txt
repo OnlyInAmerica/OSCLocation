@@ -1,0 +1,2 @@
+geopy==1.11.0
+python-osc==1.6.3
